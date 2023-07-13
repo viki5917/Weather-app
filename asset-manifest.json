@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Weather-app/static/css/main.1a7ee9b1.css",
-    "main.js": "/Weather-app/static/js/main.b7686cc8.js",
+    "main.js": "/Weather-app/static/js/main.adf626da.js",
     "static/media/sunny-clear-sky.jpg": "/Weather-app/static/media/sunny-clear-sky.bd225d80dafc44aefbde.jpg",
     "index.html": "/Weather-app/index.html",
     "main.1a7ee9b1.css.map": "/Weather-app/static/css/main.1a7ee9b1.css.map",
-    "main.b7686cc8.js.map": "/Weather-app/static/js/main.b7686cc8.js.map"
+    "main.adf626da.js.map": "/Weather-app/static/js/main.adf626da.js.map"
   },
   "entrypoints": [
     "static/css/main.1a7ee9b1.css",
-    "static/js/main.b7686cc8.js"
+    "static/js/main.adf626da.js"
   ]
 }
